@@ -1,0 +1,79 @@
+.Phonebook {
+  padding: 16px 0 29px 7px;
+}
+
+.section {
+  padding: 20px 0;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  letter-spacing: 0.03em;
+  color: #000000;
+  margin-bottom: 35px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border: 2px solid #6A6A6A;
+  padding: 20px;
+}
+
+label {
+  font-weight: 400;
+  font-size: 31px;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 260px;
+  height: 36px;
+  border: 1px solid #D9D9D9;
+  margin-bottom: 40px;
+}
+
+button {
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 27px;
+  letter-spacing: 0.02em;
+  color: #000000;
+
+  border: 1px solid #D9D9D9;
+  border-radius: 10px;
+  background-color: white;
+  padding: 5px 15px;
+}
+
+ul {}
+
+li {
+  font-weight: 400;
+  font-size: 31px;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+  color: #000000;
+  padding-left: 30px;
+  margin-bottom: 22px;
+}
+
+li p {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.FilterContacts {
+  font-weight: 400;
+  font-size: 31px;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+  color: #000000;
+  margin-bottom: 22px;
+}

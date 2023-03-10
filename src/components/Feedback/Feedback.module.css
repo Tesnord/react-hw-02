@@ -31,8 +31,6 @@ button:not(:nth-last-child(1)) {
   margin-right: 10px;
 }
 
-ul {}
-
 li {
   font-weight: 400;
   font-size: 32px;

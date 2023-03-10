@@ -1,7 +1,7 @@
-export default function Filter({ value, onChange, s }) {
+export default function Filter({ value, onChange }) {
   return (
     <div>
-      <p className={s.FilterContacts}>Find contacts by name</p>
+      <p className="FilterContacts">Find contacts by name</p>
       <input type="text" value={value} onChange={onChange}></input>
     </div>
   );
